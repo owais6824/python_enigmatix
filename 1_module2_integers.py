@@ -1,6 +1,6 @@
 '''
     welcome...! 
-    Module # 2
+    Module # 2 (Integers)
     we will discuss about datatypes and operators
 
 '''
