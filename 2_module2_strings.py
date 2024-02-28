@@ -1,6 +1,6 @@
 '''
     Welcome...! 
-    Module # 2
+    Module # 2 (Strings)
     here we will discuss strings in python
 
 '''
